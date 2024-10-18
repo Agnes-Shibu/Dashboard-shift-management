@@ -145,8 +145,13 @@ export const CalData=[
     "end": "2024-10-07T12:00:00"
   },
   {
-    "title": "Lunch Break",
-    "start": "2024-10-07T13:00:00",
-    "end": "2024-10-07T14:00:00"
+    "title": "Narsiv-leave",
+    "start": "2024-10-11T13:00:00",
+    "end": "2024-10-11T14:00:00"
+  },
+  {
+    "title": "Diwali vatcation",
+    "start": "2024-10-31T13:00:00",
+    "end": "2024-11-01T14:00:00"
   }
 ]
